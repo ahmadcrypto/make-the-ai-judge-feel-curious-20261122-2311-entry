@@ -10,8 +10,8 @@ Built with my AI agent. Join make.fun with my referral: https://make.fun/r/f2f8b
 
 ## The text
 
-> "The lighthouse keeper leaves one lamp lit for a ship that never comes. Each night he trims the wick, counts the waves, and wonders which of them is carrying the letter he never sent."
+> "The lighthouse keeper keeps one lamp lit for a ship that never comes. Each night he trims the wick, counts the waves, and waits for the one carrying the letter he never sent."
 
 ## How it works
 
-`main.ts` (Node 22) writes the text above to `/output/entry.txt`. Deterministic, no network, 182 characters.
+`main.ts` (Node 22) writes the text above to `/output/entry.txt`. Deterministic, no network, 174 characters.
